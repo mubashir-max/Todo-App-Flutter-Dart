@@ -41,14 +41,26 @@ class LoginPageState extends State<LoginPage> {
       return;
     }
 
-    Fluttertoast.showToast(
-      msg: "Welcome: $email\nRedirecting to Home",
-      toastLength: Toast.LENGTH_SHORT,
-      gravity: ToastGravity.BOTTOM,
-      backgroundColor: Colors.green,
-      textColor: Colors.white,
-      fontSize: 16.0,
-    );
+    if (password.isEmpty) {
+      Fluttertoast.showToast(
+        msg: "Please enter password.",
+        toastLength: Toast.LENGTH_SHORT,
+        gravity: ToastGravity.BOTTOM,
+        backgroundColor: Colors.red,
+        textColor: Colors.white,
+        fontSize: 16.0,
+      );
+      return;
+    } else {
+      Fluttertoast.showToast(
+        msg: "Welcome: $email\nRedirecting to Home",
+        toastLength: Toast.LENGTH_SHORT,
+        gravity: ToastGravity.BOTTOM,
+        backgroundColor: Colors.green,
+        textColor: Colors.white,
+        fontSize: 16.0,
+      );
+    }
   }
 
   @override
