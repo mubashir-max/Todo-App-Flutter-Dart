@@ -1,0 +1,52 @@
+# Ignore all build output directories
+/build/
+/*/build/
+
+# Ignore APKs, AABs, and related generated files
+*.apk
+*.aab
+*.ap_
+*.dex
+
+# Ignore gradle wrapper binary
+/gradle/wrapper/gradle-wrapper.jar
+
+# Ignore local configuration files
+/local.properties
+/.idea/
+/*.iml
+.DS_Store
+
+# Ignore crashlytics and firebase files
+crashlytics.properties
+fabric.properties
+
+# Ignore dependency caches and logs
+.gradle/
+/*.log
+
+# Ignore Android Studio generated files
+/captures/
+/.externalNativeBuild/
+.cxx/
+.idea/
+*.ipr
+*.iws
+
+# Ignore test results
+/test-results/
+/test-output/
+
+# Ignore lint and analysis results
+lint/intermediates/
+/lint/generated/
+
+# Ignore generated json files
+*.json
+
+# Ignore generated keys and keystore files
+*.jks
+*.keystore
+
+# Ignore misc
+*.log
