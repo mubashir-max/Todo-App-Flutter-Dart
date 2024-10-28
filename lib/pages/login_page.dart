@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:fluttertoast/fluttertoast.dart';
+import 'package:todo_list/pages/dashboard_page.dart';
 import 'registration_page.dart';
 
 class LoginPage extends StatefulWidget {
@@ -60,6 +61,7 @@ class LoginPageState extends State<LoginPage> {
         textColor: Colors.white,
         fontSize: 16.0,
       );
+      Navigator.pushReplacement(context, MaterialPageRoute(builder: (context)=> const DashboardPage() ));
     }
   }
 

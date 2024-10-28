@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.todo_list.app-mergeDebugResources-24:/values-th/values-th.xml",
+            "outputFile": "com.example.todo_list.app-mergeDebugResources-26:/values-th/values-th.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Lenovo\\.gradle\\caches\\transforms-3\\e9fc90bcbcc2456fd85c0024b3df9001\\transformed\\core-1.13.1\\res\\values-th\\values-th.xml",

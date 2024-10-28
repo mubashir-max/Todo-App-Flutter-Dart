@@ -27,6 +27,9 @@ INJECTED from C:\Users\Lenovo\Documents\Mub\NaveedBhaiWork\ToDoList-Flutter-Dart
 INJECTED from C:\Users\Lenovo\Documents\Mub\NaveedBhaiWork\ToDoList-Flutter-Dart\android\app\src\debug\AndroidManifest.xml:1:1-7:12
 INJECTED from C:\Users\Lenovo\Documents\Mub\NaveedBhaiWork\ToDoList-Flutter-Dart\android\app\src\debug\AndroidManifest.xml:1:1-7:12
 MERGED from [:fluttertoast] C:\Users\Lenovo\Documents\Mub\NaveedBhaiWork\ToDoList-Flutter-Dart\build\fluttertoast\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:shared_preferences_android] C:\Users\Lenovo\Documents\Mub\NaveedBhaiWork\ToDoList-Flutter-Dart\build\shared_preferences_android\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.datastore:datastore-preferences:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-3\76889cdf1e9832d680a79c1e21eea08e\transformed\jetified-datastore-preferences-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.datastore:datastore:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-3\d1f55c41494e6e9650e6796f43c0566a\transformed\jetified-datastore-1.0.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.fragment:fragment:1.7.1] C:\Users\Lenovo\.gradle\caches\transforms-3\7ee77435ce82f3a9799b20a48571f201\transformed\fragment-1.7.1\AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.window:window:1.2.0] C:\Users\Lenovo\.gradle\caches\transforms-3\fa5ff20b79fb16a9ef9cec1f4305ca77\transformed\jetified-window-1.2.0\AndroidManifest.xml:17:1-31:12
 MERGED from [androidx.window:window-java:1.2.0] C:\Users\Lenovo\.gradle\caches\transforms-3\466b1baa6507432d66121ce6ab0f5145\transformed\jetified-window-java-1.2.0\AndroidManifest.xml:17:1-21:12
@@ -82,6 +85,12 @@ INJECTED from C:\Users\Lenovo\Documents\Mub\NaveedBhaiWork\ToDoList-Flutter-Dart
 INJECTED from C:\Users\Lenovo\Documents\Mub\NaveedBhaiWork\ToDoList-Flutter-Dart\android\app\src\debug\AndroidManifest.xml
 MERGED from [:fluttertoast] C:\Users\Lenovo\Documents\Mub\NaveedBhaiWork\ToDoList-Flutter-Dart\build\fluttertoast\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
 MERGED from [:fluttertoast] C:\Users\Lenovo\Documents\Mub\NaveedBhaiWork\ToDoList-Flutter-Dart\build\fluttertoast\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences_android] C:\Users\Lenovo\Documents\Mub\NaveedBhaiWork\ToDoList-Flutter-Dart\build\shared_preferences_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences_android] C:\Users\Lenovo\Documents\Mub\NaveedBhaiWork\ToDoList-Flutter-Dart\build\shared_preferences_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [androidx.datastore:datastore-preferences:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-3\76889cdf1e9832d680a79c1e21eea08e\transformed\jetified-datastore-preferences-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.datastore:datastore-preferences:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-3\76889cdf1e9832d680a79c1e21eea08e\transformed\jetified-datastore-preferences-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.datastore:datastore:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-3\d1f55c41494e6e9650e6796f43c0566a\transformed\jetified-datastore-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.datastore:datastore:1.0.0] C:\Users\Lenovo\.gradle\caches\transforms-3\d1f55c41494e6e9650e6796f43c0566a\transformed\jetified-datastore-1.0.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.fragment:fragment:1.7.1] C:\Users\Lenovo\.gradle\caches\transforms-3\7ee77435ce82f3a9799b20a48571f201\transformed\fragment-1.7.1\AndroidManifest.xml:5:5-44
 MERGED from [androidx.fragment:fragment:1.7.1] C:\Users\Lenovo\.gradle\caches\transforms-3\7ee77435ce82f3a9799b20a48571f201\transformed\fragment-1.7.1\AndroidManifest.xml:5:5-44
 MERGED from [androidx.window:window:1.2.0] C:\Users\Lenovo\.gradle\caches\transforms-3\fa5ff20b79fb16a9ef9cec1f4305ca77\transformed\jetified-window-1.2.0\AndroidManifest.xml:20:5-44
